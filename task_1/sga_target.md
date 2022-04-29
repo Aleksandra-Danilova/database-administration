@@ -1,7 +1,7 @@
-## Problem
+### Problem
 Increase SGA_TARGET by 2 times in SCOPE=SPFILE.
 
-## Solution
+### Solution
 Let's look at the values of SGA_TARGET and SGA_MAX_SIZE: initially they are equal to 404M.
 
 ![image](https://user-images.githubusercontent.com/76550825/166064540-57d13261-52f9-44c9-8029-eb1b9462ced5.png)

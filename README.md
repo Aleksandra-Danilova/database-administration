@@ -7,3 +7,4 @@ This repository contains different Oracle database administration tasks. The tas
 6) ASMCMD utility
 7) Virtual Private Catalog
 8) Backup Encryption and Optimization
+9) Tablespace Point-in-Time Recovery

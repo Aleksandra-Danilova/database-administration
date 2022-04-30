@@ -131,5 +131,3 @@ And then the RECOVER command.
 At the end, open the database.
 
 ![image](https://user-images.githubusercontent.com/76550825/166102051-3d2c2e15-1658-4af9-a198-048881f2b017.png)
-
-

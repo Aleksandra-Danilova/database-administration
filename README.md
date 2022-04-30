@@ -5,3 +5,4 @@ This repository contains different Oracle database administration tasks. The tas
 4) Data Pump and External Tables
 5) Flashback Transaction Backout
 6) ASMCMD utility
+7) Virtual Private Catalog
